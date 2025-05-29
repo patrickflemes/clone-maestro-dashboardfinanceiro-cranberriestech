@@ -1,3 +1,5 @@
+###### TESTE GITHUB ######
+
 # The name of this view in Looker is "Pedido Compra"
 view: pedido_compra {
   # The sql_table_name parameter indicates the underlying database table
