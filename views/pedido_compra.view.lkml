@@ -1,4 +1,4 @@
-###### TESTE.COM ######
+###### TESTE.TESTE ######
 
 # The name of this view in Looker is "Pedido Compra"
 view: pedido_compra {
