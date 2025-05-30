@@ -1,4 +1,4 @@
-###### TESTE PATRICK ######
+###### TESTE PATRICK ESTRELA ######
 
 # The name of this view in Looker is "Pedido Compra"
 view: pedido_compra {
