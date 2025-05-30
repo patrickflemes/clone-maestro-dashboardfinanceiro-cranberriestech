@@ -1,4 +1,4 @@
-###### TESTE GITHUB ######
+###### TESTE GITHUB ###### ###### TESTE GITHUB ###### 
 
 # The name of this view in Looker is "Pedido Compra"
 view: pedido_compra {
