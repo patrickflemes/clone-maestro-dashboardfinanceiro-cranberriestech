@@ -1,5 +1,5 @@
 # Define the database connection to be used for this model.
-connection: "ixc_provedor_fn"
+connection: "ixcprovedor_7998_net_flex_ltda"
 
 # include all the views
 include: "/views/**/*.view.lkml"
